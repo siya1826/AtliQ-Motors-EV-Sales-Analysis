@@ -293,21 +293,21 @@ India offers opportunities across:
 
 # 📊 Dashboard Views
 
-## Live Dashboard
+## 📊 Live Dashboard
 
-🔗 https://app.powerbi.com/groups/me/reports/d6d5d00a-ea04-4ce9-82e4-4885f2bce69b/d14dd604274c39823e69?experience=power-bi
+[Click Here to View Dashboard](https://app.powerbi.com/groups/me/reports/d6d5d00a-ea04-4ce9-82e4-4885f2bce69b/d14dd604274c39823e69?experience=power-bi)
 
 ---
 
 ## Data Model View
 
-
+![Data View](images/home_page.png)
 
 ---
 
 ## Home Page
 
-_Add screenshot here_
+![Home Page](IMAGES/Home view.png)
 
 ---
 
@@ -340,8 +340,8 @@ _Add screenshot here_
 
 ---
 
-# 👨‍💻 Siya Halarnkar
+# 👨‍💻 Authoe
 
-**Tushar Fadte**
+**Siya Halarnkar**
 
 Data Analyst | Power BI Developer | SQL Enthusiast
