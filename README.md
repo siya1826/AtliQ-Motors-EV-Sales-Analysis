@@ -387,7 +387,7 @@ India’s EV ecosystem is evolving, offering AtliQ Motors strategic opportunitie
 
 ---
 
-# 👨‍💻 Authoe
+# 👨‍💻 Author
 
 **Siya Halarnkar**
 
