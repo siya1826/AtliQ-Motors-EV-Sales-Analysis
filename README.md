@@ -358,21 +358,23 @@ India’s EV ecosystem is evolving, offering AtliQ Motors strategic opportunitie
 
 # Data Model View :
 
-data model view
+![Data Model](IMAGES/data_modelling.png)
 
 # Home Page View :
 
-Home Page
+![Home Page](IMAGES/Home_view.png)
 
 # Maker Page View :
 
-Maker Page
+![Maker Page](IMAGES/Maker_View.png)
 
 # State Page View :
 
-State Page
+![Sate Page](IMAGES/State_View.png)
 
 # State vs State Page View :
+
+![State vs State Comparison Page](IMAGES/State_by_State_Comparison.png)
 
 # 🛠️ Tools Used
 
