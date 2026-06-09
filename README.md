@@ -354,7 +354,7 @@ India’s EV ecosystem is evolving, offering AtliQ Motors strategic opportunitie
 
 # Dashboard View :
 
-### Live Dashboard Link : Click Here
+### Live Dashboard Link : [Click Here to view dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWZlMWM1NjItNDkzYS00ZmVkLWJhOGEtZGYwY2EzMGY5N2M3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Data Model View :
 
